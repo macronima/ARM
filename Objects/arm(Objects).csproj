@@ -169,7 +169,14 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="NewFolder1\Plan_po_OPRIS.xlsx" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NewFolder1\UserCaseDiagr_OPRIS.png" />
+    <Content Include="NewFolder1\Ввод заказа.png" />
+    <Content Include="NewFolder1\Вход.png" />
+    <Content Include="NewFolder1\Продажа.png" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
