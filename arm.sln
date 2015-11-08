@@ -1,16 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arm(ASP.NET Application)", "ASP.NET\arm(ASP.NET Application).csproj", "{112E4E0E-5BE1-4B5A-86CF-A6CC7B88FCAC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arm(Objects)", "Objects\arm(Objects).csproj", "{08272A93-7C03-4202-9F1A-3D448E1DF68A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{5B7AF50F-3548-4397-843D-769BC6C0EC8D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Dropbox\opris\Plan_po_OPRIS.xlsx = ..\..\..\..\Dropbox\opris\Plan_po_OPRIS.xlsx
+		..\..\..\..\Dropbox\opris\UserCaseDiagr_OPRIS.png = ..\..\..\..\Dropbox\opris\UserCaseDiagr_OPRIS.png
+		..\..\..\..\Dropbox\opris\Ввод заказа.png = ..\..\..\..\Dropbox\opris\Ввод заказа.png
+		..\..\..\..\Dropbox\opris\Вход.png = ..\..\..\..\Dropbox\opris\Вход.png
+		..\..\..\..\Dropbox\opris\Продажа.png = ..\..\..\..\Dropbox\opris\Продажа.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-Debug|Any CPU = Debug|Any CPU
-Release|Any CPU = Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{112E4E0E-5BE1-4B5A-86CF-A6CC7B88FCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
